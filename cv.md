@@ -30,7 +30,7 @@ Studient of BSUIR. At the moment I am fond of everything related to the web and 
 
 ###Code examples
 
-const func = (num) => {  
+const func1 = (num) => {  
 if (num > 0) {  
   return num - 1;  
 }
