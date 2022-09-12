@@ -21,7 +21,7 @@ Studient of BSUIR. At the moment I am fond of everything related to the web and 
 
 
 
-◾️◾️◾️◽️◽️ HTML 
+◾️◾️◾️◾️◽️ HTML 
 ◾️◾️◾️◽️◽️CSS (SCSS, SASS, LESS)
 ◾️◾️◽️◽️◽️ JavaScript 
 ◾️◽️◽️◽️◽️ React JS
