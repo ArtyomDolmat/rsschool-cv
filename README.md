@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ArtyomDolmat.github.io/rsschool-cv/cv
